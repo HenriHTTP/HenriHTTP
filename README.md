@@ -11,5 +11,4 @@
 
 ![HenriHTTP GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriHTTP&show_icons=true&theme=dracula&count_private=true)
 
-![Snake animation](https://github.com/HenriHTTP/HenriHTTP/blob/output/github-contribution-grid-snake.svg)
 
