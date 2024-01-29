@@ -10,4 +10,4 @@
 
 ![HenriHTTP GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriHTTP&show_icons=true&theme=dracula&count_private=true) 
 ##
-![HenriHTTP](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriHTTP&theme=dracula&count_private=true&langs_count=8) 
+![HenriHTTP](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriHTTP&layout=compact&theme=dracula&count_private=true&langs_count=8) 
